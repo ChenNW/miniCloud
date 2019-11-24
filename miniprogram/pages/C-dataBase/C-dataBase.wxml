@@ -1,0 +1,5 @@
+<!--miniprogram/pages/C-dataBase/C-dataBase.wxml-->
+<button>增加数据</button>
+<button>删除数据</button>
+<button>查询数据</button>
+<button>修改数据</button>
